@@ -1,0 +1,91 @@
+Udgars(Soviet Union):5
+Billy(North Korea):3
+Jakub(Russia):4
+Thehesia(German):2
+Niel(Iraq):1
+Erik(China):6
+
+Udgars(Soviet Union):3
+Billy(North Korea):5
+Jakub(Russia):2
+Thehesia(German):1
+Niel(Iraq):6
+Erik(China):4
+
+Udgars(Soviet Union):3
+Billy(North Korea):1
+Jakub(Russia):4
+Thehesia(German):5
+Niel(Iraq):6
+Erik(China):2
+
+Udgars(Soviet Union):6
+Billy(North Korea):5
+Jakub(Russia):3
+Thehesia(German):1
+Niel(Iraq):2
+Erik(China):4
+
+Udgars(Soviet Union):2
+Billy(North Korea):1
+Jakub(Russia):4
+Thehesia(German):3
+Niel(Iraq):6
+Erik(China):5
+
+Udgars(Soviet Union):6
+Billy(North Korea):1
+Jakub(Russia):4
+Thehesia(German):2
+Niel(Iraq):5
+Mao Zedong(China):3
+
+Udgars(Soviet Union):3
+Billy(North Korea):5
+Jakub(Russia):1
+Thehesia(German):2
+Niel(Iraq):4
+Erik(China):6
+
+Udgars(Soviet Union):5
+Billy(North Korea):2
+Jakub(Russia):1
+Thehesia(German):6
+Niel(Iraq):4
+Erik(China):3
+
+Udgars(Soviet Union):4
+Billy(North Korea):1
+Jakub(Russia):5
+Thehesia(German):3
+Niel(Iraq):6
+Erik(China):2
+
+Udgars(Soviet Union):4
+Billy(North Korea):6
+Jakub(Russia):3
+Thehesia(German):2
+Niel(Iraq):5
+Erik(China):1
+
+Udgars(Soviet Union):4
+Billy(North Korea):3
+Jakub(Russia):6
+Thehesia(German):2
+Niel(Iraq):1
+Erik(China):5
+
+Udgars(Soviet Union):2
+Billy(North Korea):1
+Jakub(Russia):5
+Thehesia(German):3
+Niel(Iraq):4
+Erik(China):6
+
+Udgars(Soviet Union):3
+Billy(North Korea):2
+Jakub(Russia):6
+Thehesia(German):1
+Niel(Iraq):5
+Erik(China):4
+end
